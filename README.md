@@ -1,2 +1,2 @@
-# Template_Coffeans
+# Coffeans
 Template by : https://templatemo.com/tm-466-cafe-house
